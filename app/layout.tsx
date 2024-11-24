@@ -1,6 +1,6 @@
 import "../global.css";
-import { Inter, League_Spartan } from "@next/font/google";
-import LocalFont from "@next/font/local";
+import { Inter, League_Spartan } from "next/font/google";
+import LocalFont from "next/font/local";
 import { Metadata } from "next";
 import { Analytics } from "./components/analytics";
 
